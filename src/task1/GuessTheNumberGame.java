@@ -47,7 +47,7 @@ public class GuessTheNumberGame {
         while (!b) {
             g.getUserGuess();
             b = g.checkGuess();
-//            System.out.println(b);
+
         }
     }
 }
